@@ -1,5 +1,5 @@
-
-I am Ilya Serhiyenka, my nickname is P1ligrim, currently studying in [The Belarusian State University](https://bsu.by/).
+Hi there!
+I am Serhiyenka Ilya, my nickname is P1ligrim, currently studying in [The Belarusian State University](https://bsu.by/).
 
 [![Linkedin Badge](https://img.shields.io/badge/-ilyaserhiyenka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilyaserhiyenka/)](https://www.linkedin.com/in/ilyaserhiyenka/)
 [![Instagram Badge](https://img.shields.io/badge/-ilyshaaaa.s-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ilyshaaaa.s/)](https://www.instagram.com/ilyshaaaa.s/)

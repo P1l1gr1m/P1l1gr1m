@@ -24,5 +24,3 @@ I am Serhiyenka Ilya, my nickname is P1ligrim, currently studying in [The Belaru
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=p1l1gr1m&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1l1gr1m&hide=TeX&layout=compact)
-
-
